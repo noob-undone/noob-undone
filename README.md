@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @noob-undone
-- 👀 I’m interested in learning how to make Roblox games.
-- 🌱 I’m currently learning Lua as it is the programming language for Roblox Studio.
-- 💞️ I’m looking to collaborate onthose good at making Roblox games.
-- 📫 How to reach me; Roblox: @Pensier123, Discord: #9370
+- 👀 I’m interested in making video games and filming.
+- 🌱 I’m currently learning python and pygame.
+- 💞️ I’m looking to expand my knowledge of programming.
+- 📫 How to reach me; Discord: noob_undone#9370
+
+**Have a good day!**
 
 <!---
 noob-undone/noob-undone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
